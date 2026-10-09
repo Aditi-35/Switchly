@@ -1,0 +1,17 @@
+# IntelliJ IDEA settings
+.idea/
+*.iml
+
+# Maven build output
+api/target/
+
+# Postman files and folders
+/postman/
+/.postman/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
